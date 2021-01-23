@@ -1,9 +1,10 @@
 ---
-title: 'Week 1: Practice Exercise'
-author: "Mervin Fansler"
+title: 'Git, GitHub, and RStudio Exercise'
+author: "Chi-Lam Poon"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
+    theme: united
     toc: true
     toc_depth: 2
 ---
